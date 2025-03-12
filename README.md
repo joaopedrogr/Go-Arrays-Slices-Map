@@ -1,1 +1,1 @@
-# Go-Arrays-Slices-Map
+# Go Arrays / Slices / Map
