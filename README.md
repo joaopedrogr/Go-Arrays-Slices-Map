@@ -1,4 +1,4 @@
-# Go Arrays - Slices - Map
+# Go Arrays-Slices-Map
 
 ## 📘 Description
 The Go-Arrays-Slices-Map repository provides a comprehensive guide to working with arrays, slices, and maps in the Go programming language. This repository is perfect for developers looking to deepen their understanding of data structures in Go through practical examples and well-structured code snippets.
